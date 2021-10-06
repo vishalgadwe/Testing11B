@@ -14,6 +14,9 @@ public class Hellow {
 	public static void main(String[] args) {
 		
 		System.out.println("hellow");
+		Hellow h = new Hellow();
+		h.m1();
+		h.m2();
 	}
 	
 }
