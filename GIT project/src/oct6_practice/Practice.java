@@ -6,4 +6,9 @@ public class Practice {
 	{
 		System.out.println("addition method");
 	}
+	
+	public void sub()
+	{
+		System.out.println("substraction method");
+	}
 }
