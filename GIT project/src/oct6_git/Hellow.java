@@ -17,6 +17,7 @@ public class Hellow {
 		Hellow h = new Hellow();
 		h.m1();
 		h.m2();
+		h.m3();
 	}
 	
 }
