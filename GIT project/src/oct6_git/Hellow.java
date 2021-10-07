@@ -16,13 +16,19 @@ public class Hellow {
 	{
 		System.out.println("m3-----method");
 	}
+	
+	public void m4()
+	{
+		System.out.println("m4-----method");
+	}
 	public static void main(String[] args) {
 		
 		System.out.println("hellow");
 		Hellow h = new Hellow();
 		h.m1();
 		h.m2();
-		h.m4();
+    h.m4();
+
 	}
 	
 }
