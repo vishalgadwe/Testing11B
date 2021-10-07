@@ -27,7 +27,8 @@ public class Hellow {
 		Hellow h = new Hellow();
 		h.m1();
 		h.m2();
-                h.m4();
+		h.m3();
+        h.m4();
 
 	}
 	
